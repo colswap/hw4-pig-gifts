@@ -1,0 +1,20 @@
+# OCaml/Dune build artifacts
+_build/
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.a
+*.so
+*.bc
+*.exe
+
+# macOS / Windows / Linux system files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# Dune
+.merlin
