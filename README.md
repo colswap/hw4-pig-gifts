@@ -1,6 +1,6 @@
 # HW4-Ex4: Pig Gifts (Constraint Solver)
 
-[cite_start]This project solves the "Pig Gifts" problem from the SNU Programming Languages course (HW4-Ex4) [cite: 1545-1546, 1561-1564].
+This project solves the "Pig Gifts" problem from the SNU Programming Languages course (HW4-Ex4) [cite: 1545-1546, 1561-1564].
 
 The problem is a constraint satisfaction problem involving set dependencies between multiple agents ("pigs"). This OCaml program is designed to find the minimal set of "gifts" that satisfies all stated conditions.
 
